@@ -1,0 +1,8 @@
+sudo npm install grunt --save-dev
+
+sudo npm install grunt@0.4.1 --save-dev
+sudo npm install grunt-contrib-watch --save-dev
+sudo npm install grunt-contrib-compass --save-dev
+sudo npm install grunt-contrib-compass --save-dev
+sudo npm install grunt-contrib-uglify --save-dev
+sudo npm install matchdep --save-dev
